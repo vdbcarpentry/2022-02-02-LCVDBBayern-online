@@ -291,7 +291,7 @@ Participation fee: ... EUR for members of VDB, BIB or similar, ... EUR for other
 
 <p id="organization">
   <strong>Organization:</strong>
-  	The workshop is jointly organized by VDB-Landesverband Bayern, nd instructors and helpers from Universitätsbibliothek Augsburg, Universitätsbibliothek Frankfurt, and Deutsches Museum.
+  	The workshop is jointly organized by VDB-Landesverband Bayern, and instructors and helpers from Universitätsbibliothek Augsburg, Universitätsbibliothek Frankfurt, and Deutsches Museum.
 </p>
 
 
