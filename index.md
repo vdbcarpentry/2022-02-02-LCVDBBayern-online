@@ -307,13 +307,15 @@ Participation fee: ... EUR for members of VDB, BIB or similar, ... EUR for other
  </a>&nbsp;&nbsp;
 
  
- <a href="https://www.uni-augsburg.de/de/organisation/bibliothek/">
-   <img src="https://www.aubib.de/fileadmin/Template/resources/public/img/logo/bibs/uba.png" alt="Augsburg University" height="100"/>
- </a>
-
- <a href="https://www.ub.uni-frankfurt.de/">
+  <a href="https://www.ub.uni-frankfurt.de/">
    <img src="https://wikis.sub.uni-hamburg.de/webis/images/e/eb/30_logo300.gif" alt="UB Frankfurt" height="100"/>
  </a>
+  
+  
+  <a href="https://www.uni-augsburg.de/de/organisation/bibliothek/">
+   <img src="https://www.aubib.de/fileadmin/Template/resources/public/img/logo/bibs/uba.png" alt="Augsburg University" height="100"/>
+ </a>
+  
  </p>
 <hr/>
 
