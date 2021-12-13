@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Library Carpentry, VDB LV Bayern (German language workshop)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Library Carpentry, VDB LV Bayern (German language)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "de"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
@@ -464,6 +464,15 @@ please preview your site before committing, and make sure to run
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
+</p>
+<p>
+  To make it easier to follow the workshop, we provide reference Cheat Sheets for each lesson:
+  <ul>
+  <li><a href="https://librarycarpentry.org/lc-data-intro/reference">Introduction to Working with Data (Regular Expressions)</a></li>
+  <li><a href="https://librarycarpentry.org/lc-open-refine/reference.html">OpenRefine</a></li>
+  <li><a href="https://librarycarpentry.org/lc-shell/reference">The Unix Shell</a></li>
+  <li><a href="https://librarycarpentry.org/lc-git/reference">Introduction to Python</a></li>
+</ul>
 </p>
 
 {% comment %}
