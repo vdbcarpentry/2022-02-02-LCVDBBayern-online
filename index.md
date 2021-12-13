@@ -466,12 +466,12 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 <p>
-  To make it easier to follow the workshop, we provide reference Cheat Sheets for each lesson:
+  To make it easier to follow the workshop, we provide reference cheat sheets for each lesson:
   <ul>
   <li><a href="https://librarycarpentry.org/lc-data-intro/reference">Introduction to Working with Data (Regular Expressions)</a></li>
-  <li><a href="https://librarycarpentry.org/lc-open-refine/reference.html">OpenRefine</a></li>
   <li><a href="https://librarycarpentry.org/lc-shell/reference">The Unix Shell</a></li>
-  <li><a href="https://librarycarpentry.org/lc-git/reference">Introduction to Python</a></li>
+  <li><a href="https://librarycarpentry.org/lc-git/reference">Introduction to Git</a></li>
+  <li><a href="https://librarycarpentry.org/lc-open-refine/reference.html">OpenRefine</a></li>
 </ul>
 </p>
 
