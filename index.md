@@ -278,7 +278,7 @@ Participation fee: ... EUR for members of VDB, BIB or similar, ... EUR for other
 
 
 <p id="contact">
-  <strong>Registration/Contact</strong>: Please register via email until ...: <a href="mailto:lvx.bayern@vdb-online.org">lvx.bayern@vdb-online.org</a>. Maximum number of participants: 25.
+  <strong>Registration/Contact</strong>: Please register via email until ...: <a href="mailto:lvx.bayern@vdb-online.org">lvx.bayern@vdb-online.org</a>. Maximum number of participants: 20.
   
 </p>
 
