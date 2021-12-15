@@ -272,13 +272,13 @@ Edit the text to match who can attend the workshop. For instance:
 <p id="furtherInfo">
   <strong>Further information</strong>:
 	
-Participation fee: ... EUR for members of VDB, BIB or similar, ... EUR for others. Please transfer your participation fee to ... . 
+Participation fee: 60 EUR for members of VDB, BIB or similar, 120 EUR for others. We will send you the payment details after registration. 
 
 </p>
 
 
 <p id="contact">
-  <strong>Registration/Contact</strong>: Please register via email until ...: <a href="mailto:lvx.bayern@vdb-online.org">lvx.bayern@vdb-online.org</a>. Maximum number of participants: 20.
+  <strong>Registration/Contact</strong>: Please register via email until 24-01-2022: <a href="mailto:lv.bayern@vdb-online.org">lv.bayern@vdb-online.org</a>. Maximum number of participants: 20.
   
 </p>
 
